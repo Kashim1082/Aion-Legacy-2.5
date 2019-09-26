@@ -31,4 +31,4 @@ Additional Information:bangbang:
 
 With these new Game Files, the server will become a 2.7 one, that means we will have the arena system implemented along with all the 2.7 changes. At the moment that content wont work, our goal is to fix above issues first.
 
-We will be slowly updating the server with the fixes, no ETA atm.
+We will be slowly updating the server with the fixes, no ETA atm
